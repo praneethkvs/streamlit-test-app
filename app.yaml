@@ -1,2 +1,3 @@
+service: streamlist-test-app
 runtime: custom
 env: flex
